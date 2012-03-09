@@ -8,6 +8,8 @@
 
 #####Add a library
 
+This will pull from the config file.
+
 `$this->AssetManager->set_library(Asset::JQUERY);`
 
 #####Add an asset
